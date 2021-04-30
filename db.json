@@ -3,23 +3,23 @@
     {
       "id": 1,
       "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2021-04-30T05:30:21.194Z"
+      "attention": true,
+      "tech": "Tanvi Rasam",
+      "date": "2021-04-30T20:48:56.793Z"
     },
     {
       "id": 2,
       "message": "Fixed hard drive on workstation 002",
       "attention": true,
-      "tech": "John Doe",
+      "tech": "Chaitanya Darade",
       "date": "2021-04-30T05:29:58.272Z"
     },
     {
+      "id": 3,
       "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "attention": false,
+      "tech": "Tanvi Rasam",
+      "date": "2021-04-30T20:43:56.903Z"
     },
     {
       "id": 4,
@@ -27,23 +27,25 @@
       "attention": false,
       "tech": "Aniruddha Shirashatti",
       "date": "2021-04-30T05:30:12.948Z"
+    },
+    {
+      "message": "Server Connectivity Issue",
+      "attention": true,
+      "tech": "Chaitanya Darde",
+      "date": "2021-04-30T20:46:40.703Z",
+      "id": 5
     }
   ],
   "techs": [
     {
       "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
+      "firstName": "Digvijay",
+      "lastName": "Gole"
     },
     {
       "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Chaitanya",
+      "lastName": "Darde"
     },
     {
       "firstName": "Aniruddha",
@@ -51,9 +53,14 @@
       "id": 4
     },
     {
-      "firstName": "Shubham",
-      "lastName": "Amilkanthwar",
+      "firstName": "Tanvi",
+      "lastName": "Rasam",
       "id": 5
+    },
+    {
+      "firstName": "Shalvik",
+      "lastName": "Shah",
+      "id": 6
     }
   ]
 }
