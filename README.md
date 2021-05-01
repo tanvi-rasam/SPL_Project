@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Issue Logger
-=======
-# IssueLogger
->>>>>>> fdb1d7587c0eb5b519acd3d11f6e69566e3c8721
 
 
 ## Usage
